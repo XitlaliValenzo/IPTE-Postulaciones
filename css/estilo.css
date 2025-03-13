@@ -1,0 +1,13 @@
+.fondo_registro{
+	background-image: url("../img/img1.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+
+}
+
+#fondo_logo{
+	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
+	justify-content: center;
+	
+}
